@@ -1,0 +1,1 @@
+pathfindingclean.loaders.OSMGraphLoader
