@@ -1,7 +1,7 @@
 # Projek-game-PVS
 # Kelompok 2 3D TIF POLNEP
 
-Aplikasi Library Game Untuk Tugas Besar Praktikum Pemrograman Visual
+# Aplikasi Library Game Untuk Tugas Besar Praktikum Pemrograman Visual
 oleh:
 nama : Wayan Aditia
 NIM: 3202416049
